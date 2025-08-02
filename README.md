@@ -1,8 +1,9 @@
 [![GitHub ReadMe Header](https://github.com/MarieLynneBlock/MarieLynneBlock/blob/master/header/banner_code.gif)](https://github.com/MarieLynneBlock/animated-banner_github)
 
+![](https://komarev.com/ghpvc/?username=takurashi&color=blue&style=flat&label=Views&abbreviated=true)
+
 # 💫 About Me:
 Hey everyone, I'm Takurashi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>  <br>I am an aspiring programmer from Russia.<br>I am also interested in OSINT and cyber security.<br><br>I communicate with everyone respectfully and ask the same in my direction.<br><br>I enjoy creating software for privacy, anonymity and security.
-
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashi) 
