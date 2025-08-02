@@ -16,8 +16,6 @@ Hey everyone, I'm Takurashi <img src="https://media.giphy.com/media/hvRJCLFzcasr
 ![](https://nirzak-streak-stats.vercel.app/?user=takurashi&theme=react&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=takurashi&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![3D Contributions](https://raw.githubusercontent.com/takurashi/github-profile-3d-contrib/main/output/profile-3d-contrib-night.svg)
-
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=takurashi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
