@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=90"/>
 </p>
 
-[![GitHub ReadMe Header](https://github.com/Takurashi/Takurashi/animated-banner_github/index.html)](https://github.com/Takurashi/Takurashi/animated-banner_github)
+[![GitHub ReadMe Header](https://github.com/Takurashi/Takurashi/blob/main/animated-banner_github/index.html)](https://github.com/Takurashi/Takurashi/animated-banner_github)
 
 ---
 <p align='center'>
