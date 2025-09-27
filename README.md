@@ -13,7 +13,17 @@
 
 # navigation
 
-[💫 About Me](#💫-About-Me)
+[💫 About Me](https://github.com/Takurashi/Takurashi/edit/main/README.md#-about-me)
+
+[🌐 Social media](https://github.com/Takurashi/Takurashi/edit/main/README.md#-social-media)
+
+[💻 Tech stack](https://github.com/Takurashi/Takurashi/edit/main/README.md#-tech-stack)
+
+[🧐 Meet the Maker (of this Repo)](https://github.com/Takurashi/Takurashi/edit/main/README.md#meet-the-maker-of-this-repo)
+
+[📈 Stats](https://github.com/Takurashi/Takurashi/edit/main/README.md#stats)
+
+[📑 My articles](https://github.com/Takurashi/Takurashi/edit/main/README.md#my-articles)
 
 
 # 💫 About Me:
@@ -21,10 +31,26 @@ Hey everyone, I'm Takurashi <img src="https://media.giphy.com/media/hvRJCLFzcasr
 
 ---
 
+npm package - Profile card 📦 
+<br>
+
+> Run the following command to know more about me
+
+<br> 
+
+```
+npx takurashi
+```
+
+<hr>
+<br>
+
+---
+
 # 🌐 Social media
 
 <details>
-  <summary><strong> 🌐 Social media </strong> <sub> (click to expand) </sub></summary>
+  <summary><strong> Social </strong> <sub> (click to expand) </sub></summary>
   <br>
   
 #### Main 
@@ -92,20 +118,6 @@ Hey everyone, I'm Takurashi <img src="https://media.giphy.com/media/hvRJCLFzcasr
   <br>
 </details>
 
-## npm package - Profile card 📦 
-<br>
-
-> Run the following command to know more about me
-
-<br> 
-
-```
-npx takurashi
-```
-
-<hr>
-<br>
-
 # 💻 Tech Stack:
 
 <p align='center'>
@@ -168,22 +180,43 @@ npx takurashi
 <br>
 </details>
 
-## Github Contribution Streak 🔥 
+---
+
+# Meet the Maker (of this Repo)
+
+---
+
+# Stats
+
+<details>
+  <summary><strong> Github Contribution Streak 🔥  </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
 <br>
 <p align='center'><img src="https://nirzak-streak-stats.vercel.app/?user=takurashi&theme=blue_navy&hide_border=false"></p>
 
 <hr><br>
 
-## 📊 GitHub Stats:
-
 <br>
+</details>
+
+<details>
+  <summary><strong> 📊 GitHub Stats </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
+  <br>
 <p align='center'><img src="https://github-readme-stats.vercel.app/api?username=takurashi&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false"></p>
 
 <hr><br>
-
-## Most Used Languages 📚
-
+  
 <br>
+</details>
+
+<details>
+  <summary><strong> Most Used Languages 📚 </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
+  <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takurashi&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
 </p>
@@ -193,20 +226,43 @@ npx takurashi
 
 <hr>
 <br>
-
-## 🔝 Top Contributed Repo
-
+  
 <br>
+</details>
+
+<details>
+  <summary><strong> 🔝 Top Contributed Repo </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
+  <br>
 <p align='center'><img src="https://github-contributor-stats.vercel.app/api?username=takurashi&limit=5&theme=blue_navy&combine_all_yearly_contributions=true"></p>
 
 <hr><br>
+  
+<br>
+</details>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=takurashi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+<details>
+  <summary><strong> 🏆 GitHub Trophies </strong> <sub> (click to expand) </sub></summary>
+  <br>
 
-## Github Contributions 📈
+  ![](https://github-profile-trophy.vercel.app/?username=takurashi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+  
+<br>
+</details>
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=takurashi&bg_color=0c0e10&color=70a7ff&line=24a6d6&point=545455&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<details>
+  <summary><strong> Github Contributions 📈 </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
+  [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=takurashi&bg_color=0c0e10&color=70a7ff&line=24a6d6&point=545455&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  
+<br>
+</details>
+
+---
+
+# My articles
 
 ---
 
