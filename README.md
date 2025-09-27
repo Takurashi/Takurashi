@@ -13,7 +13,7 @@
 
 # navigation
 
-[💫 About Me](https://github.com/Takurashi/Takurashi/edit/main/README.md#-about-me)
+[💫 About Me](#-about-me)
 
 [🌐 Social media](https://github.com/Takurashi/Takurashi/edit/main/README.md#-social-media)
 
