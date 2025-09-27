@@ -15,15 +15,15 @@
 
 [💫 About Me](#-about-me)
 
-[🌐 Social media](https://github.com/Takurashi/Takurashi/edit/main/README.md#-social-media)
+[🌐 Social media](#-social-media)
 
-[💻 Tech stack](https://github.com/Takurashi/Takurashi/edit/main/README.md#-tech-stack)
+[💻 Tech stack](#-tech-stack)
 
-[🧐 Meet the Maker (of this Repo)](https://github.com/Takurashi/Takurashi/edit/main/README.md#meet-the-maker-of-this-repo)
+[🧐 Meet the Maker (of this Repo)](#meet-the-maker-of-this-repo)
 
-[📈 Stats](https://github.com/Takurashi/Takurashi/edit/main/README.md#stats)
+[📈 Stats](#stats)
 
-[📑 My articles](https://github.com/Takurashi/Takurashi/edit/main/README.md#my-articles)
+[📑 My articles](#my-articles)
 
 
 # 💫 About Me:
