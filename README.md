@@ -27,9 +27,7 @@
 
 
 # 💫 About Me:
-Hey everyone, I'm Takurashi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>  <br>I am an aspiring programmer from Russia.<br>I am also interested in OSINT and cyber security.<br><br>I communicate with everyone respectfully and ask the same in my direction.<br><br>I enjoy creating software for privacy, anonymity and security.
-
----
+Hey everyone, I'm Takurashi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>  <br>I am a novice programmer from Russia.<br>I am also interested in OSINT and pentesting.<br>I want to make this world a safer place.
 
 These are my two BIO: [![BIO](https://img.shields.io/badge/BIO-007AFF.svg?logo=telegram&logoColor=White&color=24292e)](https://t.me/takurashime) [![Website](https://img.shields.io/badge/Website-24292e.svg?logo=github&logoColor=White&color=24292e
 )](https://takurashi.github.io)
