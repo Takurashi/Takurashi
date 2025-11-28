@@ -31,6 +31,11 @@ Hey everyone, I'm Takurashi <img src="https://media.giphy.com/media/hvRJCLFzcasr
 
 ---
 
+These are my two BIO: [![BIO](https://img.shields.io/badge/BIO-007AFF.svg?logo=telegram&logoColor=White&color=24292e)](https://t.me/takurashime) [![Website](https://img.shields.io/badge/Website-24292e.svg?logo=github&logoColor=White&color=24292e
+)](https://takurashi.github.io)
+
+---
+
 npm package - Profile card 📦 
 <br>
 
@@ -54,14 +59,19 @@ npx takurashi
   <br>
   
 #### Main 
-> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashime) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@takurashime) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashi)
+> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashime) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@takurashime) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ttakurashi) 
+
+#### Telegram 
+> [![Epectasis](https://img.shields.io/badge/Epectasis-007AFF.svg?logo=telegram&logoColor=White&color=24292e
+)](https://t.me/Epectasis) [![Hylopathism](https://img.shields.io/badge/Hylopathism-007AFF.svg?logo=telegram&logoColor=White&color=24292e)](https://t.me/Hylopathism) [![Chrematist](https://img.shields.io/badge/Chrematist-007AFF.svg?logo=telegram&logoColor=White&color=24292e)](https://t.me/Chrematist)
 
 #### My life
 
 >[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/takurashime) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/takurashime) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/takurashime)
 
 #### For the community
-> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/takurashime) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/takurashime) 
+> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/takurashime) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/takurashime) [![Dialetheism](https://img.shields.io/badge/Dialetheism-007AFF.svg?logo=telegram&logoColor=White&color=24292e
+)](https://t.me/Dialetheism)
 
 #### My activities
 > [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/takurashime)
@@ -163,6 +173,27 @@ npx takurashi
 </details>
 
 <details>
+  <summary><strong> Platform </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/takurashi) [![tryhackme](https://img.shields.io/badge/tryhackme-24292e.svg?logo=tryhackme&logoColor=red&color=24292e
+)](https://tryhackme.com/p/takurashi)
+
+<br>
+</details>
+
+<details>
+  <summary><strong> Software </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
+#### Them
+> ![Obsidian](https://img.shields.io/badge/obsidian-24292e.svg?logo=obsidian&logoColor=7F6DF2&color=24292e
+)
+
+  <br>
+</details>
+
+<details>
   <summary><strong> Operating Systems 🐧 </strong> <sub> (click to expand) </sub></summary>
   <br>
 
@@ -176,6 +207,16 @@ npx takurashi
 <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white">&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">&nbsp;&nbsp;
 </p>
+
+<br>
+</details>
+
+<details>
+  <summary><strong> Other </strong> <sub> (click to expand) </sub></summary>
+  <br>
+  
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Markdown](https://img.shields.io/badge/md-24292e.svg?style=for-the-badge&logo=markdown&logoColor=White
+)
 
 <br>
 </details>
