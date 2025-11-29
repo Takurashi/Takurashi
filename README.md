@@ -121,7 +121,8 @@ npx takurashi
   <summary><strong> Donate </strong> <sub> (click to expand) </sub></summary>
   <br>
 
-  1
+  > [![boosty](https://img.shields.io/badge/boosty-white.svg?logo=boosty&logoColor=white&labelColor=orange&color=orange
+)](https://boosty.to)
 
   <br>
 </details>
