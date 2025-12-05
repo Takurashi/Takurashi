@@ -11,20 +11,19 @@
 </p>
 <br>
 
-# navigation
+---
+# Navigation
 
-[💫 About Me](#-about-me)
+| Navigation |
+| --- |
+| [💻 Tech stack](#-tech-stack) |
+| [🌐 Social media](#-social-media) |
+| [💳 Donate](#donate) |
+| [📑 My articles](#my-articles) |
+| [🧐 Meet the Maker (of this Repo)](#meet-the-maker-of-this-repo) |
+| [📈 Stats](#stats) |
 
-[🌐 Social media](#-social-media)
-
-[💻 Tech stack](#-tech-stack)
-
-[🧐 Meet the Maker (of this Repo)](#meet-the-maker-of-this-repo)
-
-[📈 Stats](#stats)
-
-[📑 My articles](#my-articles)
-
+---
 
 # 💫 About Me:
 Hey everyone, I'm Takurashi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>  <br>I am a novice programmer from Russia.<br>I am also interested in OSINT and pentesting.<br>I want to make this world a safer place.
@@ -49,83 +48,6 @@ npx takurashi
 <br>
 
 ---
-
-# 🌐 Social media
-
-<details>
-  <summary><strong> Social </strong> <sub> (click to expand) </sub></summary>
-  <br>
-  
-#### Main 
-> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashime) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@takurashime) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ttakurashi) 
-
-#### Telegram 
-> [![Epectasis](https://img.shields.io/badge/Epectasis-007AFF.svg?logo=telegram&logoColor=White&color=24292e
-)](https://t.me/Epectasis) [![Hylopathism](https://img.shields.io/badge/Hylopathism-007AFF.svg?logo=telegram&logoColor=White&color=24292e)](https://t.me/Hylopathism) [![Chrematist](https://img.shields.io/badge/Chrematist-007AFF.svg?logo=telegram&logoColor=White&color=24292e)](https://t.me/Chrematist)
-
-#### My life
-
->[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/takurashime) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/takurashime) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/takurashime)
-
-#### For the community
-> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/takurashime) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/takurashime) [![Dialetheism](https://img.shields.io/badge/Dialetheism-007AFF.svg?logo=telegram&logoColor=White&color=24292e
-)](https://t.me/Dialetheism)
-
-#### My activities
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/takurashime)
-
-<br>
-</details>
-
-<details>
-  <summary><strong> Articles </strong> <sub> (click to expand) </sub></summary>
-  <br>
-<h6>✉️ I publish information in Russian and English on my social media accounts.</h6>
-
-<details>
-  <summary><strong> In Russia </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-#### Web3
-> 1
-
-#### IT
-> 2
-
-#### Miscellaneous
-> 3
-
-<br>
-</details>
-
-<details>
-  <summary><strong> In English </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-#### Web3
-> 1
-
-#### IT
-> 2
-
-#### Miscellaneous
-> 3
-
-<br>
-</details>
-
-<br>
-</details>
-
-<details>
-  <summary><strong> Donate </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-  > [![boosty](https://img.shields.io/badge/boosty-white.svg?logo=boosty&logoColor=white&labelColor=orange&color=orange
-)](https://boosty.to)
-
-  <br>
-</details>
 
 # 💻 Tech Stack:
 
@@ -222,7 +144,102 @@ npx takurashi
 
 ---
 
-# Meet the Maker (of this Repo)
+
+# 🌐 Social media
+
+<details>
+  <summary><strong> Social </strong> <sub> (click to expand) </sub></summary>
+  <br>
+  
+#### Main 
+> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashime) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@takurashime) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ttakurashi) 
+
+#### Telegram 
+> [![Epectasis](https://img.shields.io/badge/Epectasis-007AFF.svg?logo=telegram&logoColor=White&color=24292e
+)](https://t.me/Epectasis) [![Hylopathism](https://img.shields.io/badge/Hylopathism-007AFF.svg?logo=telegram&logoColor=White&color=24292e)](https://t.me/Hylopathism) [![Chrematist](https://img.shields.io/badge/Chrematist-007AFF.svg?logo=telegram&logoColor=White&color=24292e)](https://t.me/Chrematist)
+
+#### My life
+
+>[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/takurashime) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/takurashime) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/takurashime)
+
+#### For the community
+> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/takurashime) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/takurashime) [![Dialetheism](https://img.shields.io/badge/Dialetheism-007AFF.svg?logo=telegram&logoColor=White&color=24292e
+)](https://t.me/Dialetheism)
+
+#### My activities
+> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/takurashime)
+
+<br>
+</details>
+
+<details>
+  <summary><strong> Articles </strong> <sub> (click to expand) </sub></summary>
+  <br>
+<h6>✉️ I publish information in Russian and English on my social media accounts.</h6>
+
+<details>
+  <summary><strong> In Russia </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
+#### Web3
+> 1
+
+#### IT
+> 2
+
+#### Miscellaneous
+> 3
+
+<br>
+</details>
+
+<details>
+  <summary><strong> In English </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
+#### Web3
+> 1
+
+#### IT
+> 2
+
+#### Miscellaneous
+> 3
+
+<br>
+</details>
+
+<br>
+</details>
+
+---
+
+### My articles
+
+---
+
+# Donate
+
+<div align="center">
+To support me, use the buttons below.<br><br>
+
+<a href="https://boosty.to/takurashi">
+<img src="https://img.shields.io/badge/boosty-white.svg?logo=boosty&logoColor=white&labelColor=orange&color=orange" width=150 height=91>
+<a href="https://patreon.com/takurashi">
+<img src="https://img.shields.io/badge/PATREON-blsck.svg?logo=patreon&logoColor=black&color=white
+" width=150 height=91>
+</a><br>
+<a href="https://nowpayments.io/donation/takurashi">
+<img src="https://img.buymeacoffee.com/button-api/?text=Cryptocurrency&emoji=%F0%9F%9A%80&slug=soberhacker&button_colour=e38215&font_colour=FFFFFF&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" width=235 height=91>
+</a>&nbsp;&nbsp;<a href="https://www.buymeacoffee.com/takurashi">
+<img src="https://img.buymeacoffee.com/button-api/?text=Buy%20me%20a%20coffee&emoji=%E2%98%95&slug=soberhacker&button_colour=5F7FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFFFFF"  width=235 height=91>
+</a><br>
+<a href="https://ko-fi.com/takurashi">
+<img src="https://storage.ko-fi.com/cdn/brandasset/logo_white_stroke.png?" width=140 height=40>
+</a>&nbsp;&nbsp;<a href="--> ссылка на paypal takurashi !!! <--">
+<img src="https://www.paypalobjects.com/digitalassets/c/website/logo/full-text/pp_fc_hl.svg" width=140 height=40>
+</a>
+</div>
 
 ---
 
@@ -302,7 +319,7 @@ npx takurashi
 
 ---
 
-# My articles
+# Meet the Maker (of this Repo)
 
 ---
 
