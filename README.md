@@ -4,14 +4,16 @@
 
 [![GitHub ReadMe Header](https://github.com/Takurashi/Takurashi/blob/main/animated-banner_github/index.html)](https://github.com/Takurashi/Takurashi/animated-banner_github)
 
----
 <p align='center'>
 <img src="https://komarev.com/ghpvc/?username=takurashi">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://img.shields.io/github/followers/takurashi?style=social">&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 <br>
 
----
+<p align='center'>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+everyone%2C+I'm+Takurashi.;I+am+a+novice+programmer+from+Russia.;I+am+interested+in+Cybersecurity.">
+</p>
+
 # Navigation
 
 | Navigation |
@@ -23,12 +25,7 @@
 | [🧐 Meet the Maker (of this Repo)](#meet-the-maker-of-this-repo) |
 | [📈 Stats](#stats) |
 
----
-
-# 💫 About Me:
-Hey everyone, I'm Takurashi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"><br>  <br>I am a novice programmer from Russia.<br>I am also interested in OSINT and pentesting.<br>I want to make this world a safer place.
-
-These are my two BIO: [![BIO](https://img.shields.io/badge/BIO-007AFF.svg?logo=telegram&logoColor=White&color=24292e)](https://t.me/takurashime) [![Website](https://img.shields.io/badge/Website-24292e.svg?logo=github&logoColor=White&color=24292e
+- These are my two BIO: [![BIO](https://img.shields.io/badge/BIO-007AFF.svg?logo=telegram&logoColor=White&color=24292e)](https://t.me/takurashime) [![Website](https://img.shields.io/badge/Website-24292e.svg?logo=github&logoColor=White&color=24292e
 )](https://takurashi.github.io)
 
 ---
@@ -46,8 +43,6 @@ npx takurashi
 
 <hr>
 <br>
-
----
 
 # 💻 Tech Stack:
 
@@ -212,8 +207,6 @@ npx takurashi
 <br>
 </details>
 
----
-
 ### My articles
 
 ---
@@ -225,9 +218,6 @@ To support me, use the buttons below.<br><br>
 
 <a href="https://boosty.to/takurashi">
 <img src="https://img.shields.io/badge/boosty-white.svg?logo=boosty&logoColor=white&labelColor=orange&color=orange" width=150 height=91>
-<a href="https://patreon.com/takurashi">
-<img src="https://img.shields.io/badge/PATREON-blsck.svg?logo=patreon&logoColor=black&color=white
-" width=150 height=91>
 </a><br>
 <a href="https://nowpayments.io/donation/takurashi">
 <img src="https://img.buymeacoffee.com/button-api/?text=Cryptocurrency&emoji=%F0%9F%9A%80&slug=soberhacker&button_colour=e38215&font_colour=FFFFFF&font_family=Bree&outline_colour=000000&coffee_colour=FFDD00" width=235 height=91>
