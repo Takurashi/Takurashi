@@ -158,7 +158,7 @@ npx takurashi
 >[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/takurashime) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/takurashime) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/takurashime)
 
 #### For the community
-> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/takurashime) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/takurashime) [![Dialetheism](https://img.shields.io/badge/Dialetheism-007AFF.svg?logo=telegram&logoColor=White&color=24292e
+> [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/takurashime) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/takurashime) [![kick](https://img.shields.io/badge/kick-%23000000.svg?logo=kick&logoColor=53fc18)](https://kick.com/takurashi) [![Dialetheism](https://img.shields.io/badge/Dialetheism-007AFF.svg?logo=telegram&logoColor=White&color=24292e
 )](https://t.me/Dialetheism)
 
 #### My activities
