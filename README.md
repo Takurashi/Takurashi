@@ -73,7 +73,7 @@ npx takurashi
   <summary><strong> Microcontrollers & IoT </strong> <sub> (click to expand) </sub></summary>
   <br>
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) ![espressif](https://img.shields.io/badge/espressif-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 <br>
 </details>
@@ -266,6 +266,7 @@ To support me, use the buttons below.<br><br>
   <br>
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=takurashi&theme=blue_navy&hide_border=false&include_all_commits=false&count_private=false&layout=compact">
+  
 </p>
 <p align='center'>
 <h6>Note : Does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub.</h6>
@@ -294,7 +295,7 @@ To support me, use the buttons below.<br><br>
   <br>
 
   ![](https://github-profile-trophy.vercel.app/?username=takurashi&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-  
+
 <br>
 </details>
 
