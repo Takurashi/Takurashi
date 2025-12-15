@@ -49,13 +49,11 @@ npx takurashi
 <p align='center'>
 <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen></img></p>
 
---- 
-
 <details>
   <summary><strong> Languages & Libraries </strong> <sub> (click to expand) </sub></summary>
   <br>
 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/md-24292e.svg?style=for-the-badge&logo=markdown&logoColor=White)
 
 <br>
 </details>
@@ -79,21 +77,11 @@ npx takurashi
 </details>
 
 <details>
-  <summary><strong> IDEs/Editors & Collaboration Platforms </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-<img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white">&nbsp;&nbsp;
-
-<br>
-</details>
-
-<details>
   <summary><strong> Platform </strong> <sub> (click to expand) </sub></summary>
   <br>
 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/takurashi) [![tryhackme](https://img.shields.io/badge/tryhackme-24292e.svg?logo=tryhackme&logoColor=red&color=24292e
-)](https://tryhackme.com/p/takurashi)
+[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/takurashi) [![tryhackme](https://img.shields.io/badge/tryhackme-24292e.svg?style=for-the-badge&logo=tryhackme&logoColor=red&color=24292e
+)](https://tryhackme.com/p/takurashi) [![HackTheBox](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=Hack%20The%20Box&logoColor=9FEF00)](https://app.hackthebox.com/users/2964748)
 
 <br>
 </details>
@@ -102,9 +90,8 @@ npx takurashi
   <summary><strong> Software </strong> <sub> (click to expand) </sub></summary>
   <br>
 
-#### Them
-> ![Obsidian](https://img.shields.io/badge/obsidian-24292e.svg?logo=obsidian&logoColor=7F6DF2&color=24292e
-)
+#### IDEs/Editors & Collaboration Platforms
+> ![VS code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![VS](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Obsidian](https://img.shields.io/badge/obsidian-24292e.svg?style=for-the-badge&logo=obsidian&logoColor=7F6DF2&color=24292e)
 
   <br>
 </details>
@@ -128,11 +115,23 @@ npx takurashi
 </details>
 
 <details>
+  <summary><strong> AI </strong> <sub> (click to expand) </sub></summary>
+  <br>
+
+<img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/github%20copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white">&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=grok&logoColor=white">&nbsp;&nbsp;
+
+<br>
+</details>
+
+<details>
   <summary><strong> Other </strong> <sub> (click to expand) </sub></summary>
   <br>
   
-![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white) ![Markdown](https://img.shields.io/badge/md-24292e.svg?style=for-the-badge&logo=markdown&logoColor=White
-)
+![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
 
 <br>
 </details>
@@ -147,7 +146,7 @@ npx takurashi
   <br>
   
 #### Main 
-> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashime) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@takurashime) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ttakurashi) 
+> [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashime) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@takurashime) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@takurashi) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ttakurashi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/takurashime)
 
 #### Telegram 
 > [![Epectasis](https://img.shields.io/badge/Epectasis-007AFF.svg?logo=telegram&logoColor=White&color=24292e
@@ -161,48 +160,8 @@ npx takurashi
 > [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/takurashime) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/takurashime) [![kick](https://img.shields.io/badge/kick-%23000000.svg?logo=kick&logoColor=53fc18)](https://kick.com/takurashi) [![Dialetheism](https://img.shields.io/badge/Dialetheism-007AFF.svg?logo=telegram&logoColor=White&color=24292e
 )](https://t.me/Dialetheism)
 
-#### My activities
-> [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/takurashime)
-
-<br>
-</details>
-
-<details>
-  <summary><strong> Articles </strong> <sub> (click to expand) </sub></summary>
-  <br>
-<h6>✉️ I publish information in Russian and English on my social media accounts.</h6>
-
-<details>
-  <summary><strong> In Russia </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-#### Web3
-> 1
-
-#### IT
-> 2
-
-#### Miscellaneous
-> 3
-
-<br>
-</details>
-
-<details>
-  <summary><strong> In English </strong> <sub> (click to expand) </sub></summary>
-  <br>
-
-#### Web3
-> 1
-
-#### IT
-> 2
-
-#### Miscellaneous
-> 3
-
-<br>
-</details>
+#### Articles
+> [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/takurashi) [![dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/takurashi)
 
 <br>
 </details>
