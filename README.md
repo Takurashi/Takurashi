@@ -10,6 +10,13 @@
 </p>
 <br>
 
+<div dir="ltr" align=center>
+    
+[**![Lang_farsi](https://user-images.githubusercontent.com/125398461/234186932-52f1fa82-52c6-417f-8b37-08fe9250a55f.png) فارسی**](README_fa.md) / [**Русский 🇷🇺**](README_ru.md) / [**简体中文 🇨🇳**](README_cn.md) / [**日本語 🇯🇵**](README_ja.md) / [**Portugês-BR 🇧🇷**](README_br.md)
+
+</div>
+<br>
+
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hey+everyone%2C+I'm+Takurashi.;I+am+a+novice+programmer+from+Russia.;I+am+interested+in+Cybersecurity.">
 </p>
